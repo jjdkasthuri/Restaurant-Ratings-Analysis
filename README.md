@@ -184,3 +184,19 @@ Food_Rating_Category = SWITCH(
   Roughly 73% of restaurants maintain smoke-free policies, while only 1.5% in San Luis Potosí and Morelo allow smoking in bar sections. About 7% of restaurants permit smoking overall, with approximately 18.46% offering designated smoking areas.
 
 ## Dashboard
+
+# ss 
+![image](https://github.com/jjdkasthuri/Restaurant-Ratings-Analysis/assets/154047882/0c246ceb-f6a7-43d9-a46c-6a50f9bfa6cf)
+
+![image](https://github.com/jjdkasthuri/Restaurant-Ratings-Analysis/assets/154047882/7a5c85c8-a72b-4f97-a497-4fc894d6d23b)
+
+![image](https://github.com/jjdkasthuri/Restaurant-Ratings-Analysis/assets/154047882/1e2c94eb-4638-4103-9816-f254943c8348)
+
+![image](https://github.com/jjdkasthuri/Restaurant-Ratings-Analysis/assets/154047882/49fb0168-79eb-4a2a-ba05-2475e98cfc8f)
+
+![image](https://github.com/jjdkasthuri/Restaurant-Ratings-Analysis/assets/154047882/3f13edba-2e2f-44da-828a-77a391063341)
+
+
+
+
+
